@@ -1,0 +1,22 @@
+< Word embedding >
+Wikipedia data : https://dumps.wikimedia.org/
+WS353 : http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/
+GUR350, GUR65, ZG222 : https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp
+RG65 : https://github.com/AlexGrinch/ro_sgns/blob/master/datasets/rg65.csv
+RW : https://nlp.stanford.edu/~lmthang/morphoNLM/
+HJ : https://russe.nlpub.org/downloads/
+
+<analogy test>
+EN :  www.fit.vutbr.cz/?imikolov/rnnlm/word-test.v1.txt
+CZ : https://github.com/Svobikl/cz_corpus
+IT : https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/word2vec/source-archive.zip
+DE : https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/analogies_ims/analogies.en.html
+
+<language model>
+2013 WNT : http://www.statmt.org/wmt13/translation-task.html
+
+
+
+
+<Text classification >
+https://course.fast.ai/datasets
